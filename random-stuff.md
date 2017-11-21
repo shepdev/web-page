@@ -8,7 +8,7 @@
 
 2.one cup waffle mix (una taza de mezcla de waffles) (eine Tasse Waffelmischung) (une tasse de mélange de gaufres)
 
-first, *thoroughly* mix the waffle mixture and the water.(primero, mezcle completamente la mezcla de waffles y el agua.)
+first, [*thoroughly*](https://www.google.com/search?q=thoroughly&rlz=1CASMAE_enUS769US769&oq=thorogh&aqs=chrome.2.69i57j0l5.8611j0j7&sourceid=chrome&ie=UTF-8) mix the waffle mixture and the water.(primero, mezcle completamente la mezcla de waffles y el agua.)
 (Mischen Sie zuerst die Waffelmischung und das Wasser gründlich.)(D'abord, bien mélanger le mélange de gaufres et l'eau.)
 
 cook in a waffle maker for 6 minutes. (cocinar en un waffle maker durante 6 minutos.) (In einem Waffeleisen 6 Minuten kochen.)
