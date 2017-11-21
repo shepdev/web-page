@@ -26,8 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### Links ###
+
 [see my dad on 'github'](https://github.com/geraldfullam) and ![gerald fullam](https://avatars3.githubusercontent.com/u/5685540?s=400&v=4)
 
+[Jeff, Cori, and computer](https://shepdev.github.io/web-page/jeff-cori-and-computer.html)
+
+[Waffle](https://shepdev.github.io/web-page/random-stuff.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
